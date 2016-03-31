@@ -2,7 +2,7 @@ package ctec.model;
 
 import java.util.ArrayList;
 
-public abstract class sandwich
+public abstract class sandwich implements Gaymes
 	{
 		private double servingSize;
 		private ArrayList<String> ingredients;

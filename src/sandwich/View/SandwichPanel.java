@@ -25,7 +25,8 @@ public class SandwichPanel extends JPanel
 	
 	private void setupPanel()
 	{
-		
+		this.add(PBJButton);
+		this.add(HamButton);
 	}
 	
 	private void setupLayout()
